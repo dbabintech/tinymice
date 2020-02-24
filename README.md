@@ -4,18 +4,20 @@ it can also be compiled for windows.
 This software need Sqlite. To avoid libsqlite3.so error, you need to install libsqlite3-dev.
 
 Ubuntu users:
+
 sudo apt-get install libsqlite3-dev
 
 
 Linux dependency(tested with Linux Mint XFCE 19.3)
-To compile
-  Lazarus 2.0.6
-  FPC 3.0.4
-  libxtst-dev
-  libgl-dev 
+
+Compile:
+	Lazarus 2.0.6, 
+	FPC 3.0.4, 
+	libxtst-dev, 
+	libgl-dev 
   
-To Execute
-  libsqlite3-dev
+Execute:
+	libsqlite3-dev
 
 
 
