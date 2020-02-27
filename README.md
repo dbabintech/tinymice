@@ -3,6 +3,10 @@ I don't have any plan to support a windows version but if you remove codebotctrl
 it can also be compiled for windows.
 This software need Sqlite. To avoid libsqlite3.so error, you need to install libsqlite3-dev.
 
+License:
+
+	GPL V3
+
 Ubuntu users:
 
 	sudo apt-get install libsqlite3-dev
