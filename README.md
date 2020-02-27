@@ -1,6 +1,4 @@
-Tinymice is a simple auto clicker for linux that support profiles.
-I don't have any plan to support a windows version but if you remove codebotctrls from the dependency, 
-it can also be compiled for windows.
+Tinymice is a simple and light Auto Clicker developed with Lazarus.  The target operating system is linux but windows user can compile the software by removing codebotctrls from the dependency.
 This software need Sqlite. To avoid libsqlite3.so error, you need to install libsqlite3-dev.
 
 License:
